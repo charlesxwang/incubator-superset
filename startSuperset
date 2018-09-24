@@ -1,0 +1,4 @@
+cd /Users/simcenter/Codes/SimCenter/ApacheSuperset
+. ./python3env/bin/activate
+
+

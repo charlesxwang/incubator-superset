@@ -134,6 +134,9 @@ Superset installation and initialization
 ----------------------------------------
 Follow these few simple steps to install Superset.::
 
+    # For some reason XCode is unable to build the latest, <2.0.0 version of cchardet. Force to install v1.0.0 of cchardet: 
+    pip install cchardet==1.0.0
+
     # Install superset
     pip install superset
 
